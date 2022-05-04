@@ -1,5 +1,5 @@
 19 years.
-He/him
+He/him.
 Studying Software Engineering on Universidade de Brasília (UnB).
 I like learning coding and programming, but I love developing.
 I know Python a lot, but I need to learn more about its libraries as important as they are.
