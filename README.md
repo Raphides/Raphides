@@ -1,8 +1,13 @@
 19 years.
+
 He/him.
+
 Studying Software Engineering on Universidade de Brasília (UnB).
+
 I like learning coding and programming, but I love developing.
+
 I know Python a lot, but I need to learn more about its libraries as important as they are.
+
 I am learning HTML and CSS and I plan to start studying SQL soon.
 <!--
 **Raphides/Raphides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
