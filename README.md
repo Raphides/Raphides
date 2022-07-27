@@ -8,10 +8,10 @@ I like learning coding and programming, but what I love is developing.
 
 Some knoledge on:
 - [x] Python
-- [x] HTML
-- [x] Javascript
-- [x] SQL
 - [x] Java
+- [x] HTML
+- [x] SQL
+- [x] JavaScript
 <!--
 **Raphides/Raphides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
